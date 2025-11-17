@@ -1,4 +1,4 @@
-# Applied-
+
 
 # Applied Statistics Repository
 
